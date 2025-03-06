@@ -1,0 +1,21 @@
+body{
+    color: darkgray;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black;
+    font-style: initial;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black;
+    font-style: italic;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    text-align: center;
+}
+
